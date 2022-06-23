@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bwk88
 - 👀 I’m interested in new technology and programming
-- 🌱 I’m currently learning graph algorithims.
+- 🌱 I’m currently pursuing my Masters and intreseted in Machine Learning and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.instagram.com/biwek_bwk/
 
